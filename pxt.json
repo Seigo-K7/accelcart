@@ -1,5 +1,5 @@
 {
-    "name": "AccelCart",
+    "name": "AccelCart Sender",
     "description": "",
     "dependencies": {
         "core": "*",
